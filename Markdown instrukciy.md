@@ -52,3 +52,4 @@
 > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
 
 ## Заключение
+Вот мы и рассмотрели,часть возможностей Markdown.
