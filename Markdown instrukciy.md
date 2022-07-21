@@ -25,6 +25,22 @@
 
 ## Ссылки
 
+Ссылки можно оформить несколькими способами:
+
+Встроенная
+
+[ссылка с title элементом](http://example.com/link "Я ссылка").
+
+Списком без нумерации
+
+* http://example.com/ "Optional Title Here"
+* http://example.com/some
+
+Списком с нумерации
+
+1. http://example.com/links (Optional Title Here)
+2. http://example.com/short
+
 ## работа с таблицами
 
 ## Цитаты
