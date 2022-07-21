@@ -47,6 +47,12 @@
 2. http://example.com/short
 
 ## работа с таблицами
+В чистом Маркдауне нет синтаксиса для таблиц, а в GFM есть.
+Например их можно оформить вот так:
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ## Цитаты
 
