@@ -41,7 +41,7 @@
 * http://example.com/ "Optional Title Here"
 * http://example.com/some
 
-Списком с нумерации
+Списком с нумерацией
 
 1. http://example.com/links (Optional Title Here)
 2. http://example.com/short
