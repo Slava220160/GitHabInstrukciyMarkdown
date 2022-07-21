@@ -56,5 +56,11 @@
 
 ## Цитаты
 
+Цитаты оформляются как в емейлах, с помощью символа (>). Например вот так:
+
+> > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+
+> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+
 ## Заключение
 Вот мы и рассмотрели,часть возможностей Markdown.
